@@ -3,7 +3,7 @@
 
 This project simulates multiple sensors and compares sensor-fusion methods using a ground-truth trajectory.
 
-#Features
+**Features**
 
 Ground-truth trajectory generation
 
