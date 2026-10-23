@@ -1,9 +1,9 @@
 # Final-Project
-Overview
+#Overview
 
 This project simulates multiple sensors and compares sensor-fusion methods using a ground-truth trajectory.
 
-Features
+#Features
 
 Ground-truth trajectory generation
 
@@ -27,10 +27,10 @@ Run
 
 ./sensor_fusion
 
-Project Structure
+#Project Structure
 
 Source code is organized into separate files for trajectory generation, sensor simulation, fusion, filtering, evaluation, results, and experiments.
 
-Documentation
+#Documentation
 
 See the docs/ directory for the project report and project plan.
