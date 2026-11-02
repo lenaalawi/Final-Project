@@ -5,7 +5,7 @@ position estimate, using a weighted average and a Kalman filter, and evaluates
 the results with RMSE.
 
 **Team:** Afraa, Lena
-**Project Leader (this iteration):** _TODO: fill in name_
+**Project Leader (this iteration):** Afraa Boukataya
 
 ## Build
 
